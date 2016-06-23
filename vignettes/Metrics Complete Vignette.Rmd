@@ -1,0 +1,14 @@
+---
+title: "Metrics Complete Vignette"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Put the title of your vignette here}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+$Hopefully\;This\;Will\;Work$
+
+$$\Delta$$
+
+$$\Lambda$$
